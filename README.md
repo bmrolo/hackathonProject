@@ -7,4 +7,4 @@ A software project for the UWW 2024 Hackathon!
 3. Uses a HuggingFace LLM to index the files and search
 
 ## In the future, this repo will:
-1. Act as a RAG
+1. Act as a RAG!
