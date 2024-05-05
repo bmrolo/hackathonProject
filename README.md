@@ -4,7 +4,7 @@ A software project for the UWW 2024 Hackathon!
 
 For reference, here is the hackathon prompt:
 
-![[Images/EthicalHackingScenario.png]]
+![Ethical Hacking Scenario Prompt](Images/EthicalHackingScenario.png)
 
 ## This repo:
 
